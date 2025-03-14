@@ -1,0 +1,25 @@
+body{
+  background-image: url("C:/my-tracker/my-tracker/src/assets/fin.jpg");
+}
+.home-container {
+  padding: 20px;
+}
+.currency-btn {
+  margin-bottom: 20px;
+}
+.graph {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+.button-row {
+  margin: 10px 0;
+}
+.action-btn {
+  width: 100%;
+  margin: 5px;
+}
+.history-btn {
+  margin-top: 20px;
+  width: 100%;
+}
